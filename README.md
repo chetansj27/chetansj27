@@ -11,3 +11,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetansj27&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetansj27&theme=tokyonight"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chetansj27)](https://github.com/ryo-ma/github-profile-trophy)
